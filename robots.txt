@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://theseanx.github.io/sitemap.xml
+Sitemap: https://theseanx.github.io/portfolio/sitemap.xml
