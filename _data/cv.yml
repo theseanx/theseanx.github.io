@@ -85,7 +85,7 @@
         - Designed a recursive breadth-first-search algorithm to traverse through the recursive structure of HTML files and find all relevant data
         - Utilized regression testing to continually check that changes do not break previously working code
         - Implemented a web frontend using React
-        - Technologies JavaScript, TypeScript, React, Node.js, Mocha, Chai, JSZip, JSON
+        - "Technologies: JavaScript, TypeScript, React, Node.js, Mocha, Chai, JSZip, JSON"
     - title: Blokus DUO
       year: Dec. 2022 - Feb. 2023
       description:
@@ -94,7 +94,7 @@
         - Implemented an efficient way to organize Event Listeners by grouping them into an inner class, improving readability and making it easier to debug the program
         - Utilized the clone function to resolve the problem that my algorithm needed to modify the user input while also retaining an unmodified copy
         - Extensively tested the program using unit tests and achieved 80% code coverage
-        - Technologies Java, JUnit, Java Swing
+        - "Technologies: Java, JUnit, Java Swing"
     - title: Shifty Quadtree
       year: Nov. 2022 - Dec. 2022
       description:
@@ -102,7 +102,7 @@
         - Implemented an auxiliary structure that would allow the program to run in time proportional to theta(size of image)
         - Practiced good coding principles by dividing code into helper functions as appropriate
         - Used Valgrind to detect and correct memory leaks and dangling pointers
-        - Technologies C++, GDB debugger, Valgrind
+        - "Technologies: C++, GDB debugger, Valgrind"
     - title: Budgeting App
       year: Dec. 2022 - Feb. 2023
       description:
@@ -111,7 +111,7 @@
         - Implemented data persistence of all budget data through JSON
         - Implemented a visual “checkmark” and “X” using ImageIO, which provided clear feedback to the user
         - Achieved 100% code coverage using JUnit
-        - Technologies Java, JUnit, Java Swing, JSON
+        - "Technologies: Java, JUnit, Java Swing, JSON"
 #    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
 #      year: 2015-now
 #      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
