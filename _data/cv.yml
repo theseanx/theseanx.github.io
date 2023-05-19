@@ -70,7 +70,7 @@
 - title: Projects
   type: time_table
   contents:
-    - title: Business Card Generator (Personal)
+    - title: Business Card Generator
       year: Apr. 2023 - May 2023
       description:
         - Developed an app that converts user input into a PDF file of a business card
@@ -78,7 +78,7 @@
         - Utilized an abstract conversion function to convert human-readable units to pixels to aid in the development process
         - Developed a Flask frontend with HTTP Requests to create a user-friendly experience
         - "Technologies:" Python, Segno, Reportlab, Python unittest, Flask, HTML templating, HTTP
-    - title: InsightUBC (Academic)
+    - title: InsightUBC
       year: Jan. 2023 - Apr. 2023
       description:
         - Developed an app that processes and extracts information from ZIP and HTML files
@@ -86,7 +86,7 @@
         - Utilized regression testing to continually check that changes do not break previously working code
         - Implemented a web frontend using React
         - "Technologies:" JavaScript, TypeScript, React, Node.js, Mocha, Chai, JSZip, JSON
-    - title: Blokus DUO (personal)
+    - title: Blokus DUO
       year: Dec. 2022 - Feb. 2023
       description:
         - Designed and built a two player version of the popular board game Blokus
@@ -95,7 +95,15 @@
         - Utilized the clone function to resolve the problem that my algorithm needed to modify the user input while also retaining an unmodified copy
         - Extensively tested the program using unit tests and achieved 80% code coverage
         - "Technologies:" Java, JUnit, Java Swing
-    - title: Budgeting App (academic)
+    - title: Shifty Quadtree
+      year: Nov. 2022 - Dec. 2022
+      description:
+        - Developed an app that pixelates a PNG image by partitioning the image according to a formula that minimizes the maximum variability.
+        - Implemented an auxiliary structure that would allow the program to run in time proportional to theta(size of image)
+        - Practiced good coding principles by dividing code into helper functions as appropriate
+        - Used Valgrind to detect and correct memory leaks and dangling pointers
+        - "Technologies:" C++, GDB debugger, Valgrind
+    - title: Budgeting App
       year: Dec. 2022 - Feb. 2023
       description:
         - Coded an app that allows users to store and manage their budget
