@@ -7,15 +7,40 @@ importance: 1
 category: personal
 ---
 Start of game:
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blokus-duo-start-of-game.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Rules page:
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blokus-duo-rules-page.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Player tries to make an invalid move:
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blokus-duo-invalid-move.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Mid-game:
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blokus-duo-mid-game.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 
-Player 1 has won:
+Player 2 has won:
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blokus-duo-player-2-victory.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
