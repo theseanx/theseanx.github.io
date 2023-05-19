@@ -67,9 +67,23 @@
 #      institution: University of Zurich, Zurich, Switzerland
 #      year: 1909 - 1911
 
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
+    - title: Business Card Generator (Personal)
+      year: Apr. 2023 - May 2023
+      description:
+        - Developed an app that converts user input into a PDF file of a business card
+        - Utilized various packages to generate a vCard of the person’s name and contact information in QR code format. Scanning this QR code automatically adds the contact information to the user’s phone
+        - Utilized an abstract conversion function to convert human-readable units to pixels to aid in the development process
+        - Developed a Flask frontend with HTTP Requests to create a user-friendly experience
+    - title: InsightUBC (Academic)
+      year: Jan. 2023 - Apr. 2023
+      description:
+        - Developed an app that converts user input into a PDF file of a business card
+        - Utilized various packages to generate a vCard of the person’s name and contact information in QR code format. Scanning this QR code automatically adds the contact information to the user’s phone
+        - Utilized an abstract conversion function to convert human-readable units to pixels to aid in the development process
+        - Developed a Flask frontend with HTTP Requests to create a user-friendly experience
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
