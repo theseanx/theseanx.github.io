@@ -77,13 +77,15 @@
         - Utilized various packages to generate a vCard of the person’s name and contact information in QR code format. Scanning this QR code automatically adds the contact information to the user’s phone
         - Utilized an abstract conversion function to convert human-readable units to pixels to aid in the development process
         - Developed a Flask frontend with HTTP Requests to create a user-friendly experience
+        - Technologies: Python, Segno, Reportlab, Python unittest, Flask, HTML templating, HTTP
     - title: InsightUBC (Academic)
       year: Jan. 2023 - Apr. 2023
       description:
-        - Developed an app that converts user input into a PDF file of a business card
-        - Utilized various packages to generate a vCard of the person’s name and contact information in QR code format. Scanning this QR code automatically adds the contact information to the user’s phone
-        - Utilized an abstract conversion function to convert human-readable units to pixels to aid in the development process
-        - Developed a Flask frontend with HTTP Requests to create a user-friendly experience
+        - Developed an app that processes and extracts information from ZIP and HTML files
+        - Designed a recursive breadth-first-search algorithm to traverse through the recursive structure of HTML files and find all relevant data
+        - Utilized regression testing to continually check that changes do not break previously working code
+        - Implemented a web frontend using React
+        - Technologies: JavaScript, TypeScript, React, Node.js, Mocha, Chai, JSZip, JSON
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
