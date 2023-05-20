@@ -21,3 +21,5 @@ Show Budget page (can choose to show only a selection of items such as only "one
         {% include figure.html path="assets/img/budget-app-show-budget.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+Citation: Calculator/Invoice/Coin image from https://www.flaticon.com/free-icon/budget_781902

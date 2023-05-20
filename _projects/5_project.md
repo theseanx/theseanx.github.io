@@ -28,3 +28,5 @@ The app will produce the following pixelated image:
 
 [//]: # (CITATION: cplusplus-image-pixelator-original.png and cplusplus-image-pixelator-after.png were both taken from the assignment page)
 [//]: # (which uses smaller rectangles and thus has more details in parts that have more variability and uses larger rectangles and thus has fewer details in parts that have less varability (?maybe->between neighbouring pixels)
+
+Citation: C++ logo from https://github.com/isocpp/logos

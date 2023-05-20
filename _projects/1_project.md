@@ -43,3 +43,5 @@ Player 2 has won:
         {% include figure.html path="assets/img/blokus-duo-player-2-victory.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+Citation: Blokus DUO board game box image from https://boardgamegeek.com/image/1086904/blokus-duo
