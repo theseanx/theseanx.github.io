@@ -13,6 +13,13 @@ Flask front-end:
     </div>
 </div>
 
+A QR code of a vCard containing the person's contact info is automatically generated and added to each business card
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/business-card-with-qr-code-description.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 Sample backgrounds:
 Cube Background:
 <div class="row">
