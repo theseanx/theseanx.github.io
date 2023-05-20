@@ -2,7 +2,7 @@
 layout: page
 title: Business Card Generator
 description: An intuitive Flask front-end that allows users to easily generate business cards with stunning backgrounds
-img: assets/img/business-card-sample-cube-background.jpg
+img: assets/img/business-card-sample-cube-background.png
 importance: 2
 category: personal
 ---

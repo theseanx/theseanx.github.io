@@ -2,7 +2,7 @@
 layout: page
 title: Blokus DUO
 description: A fully functional Blokus DUO app created with Java
-img: assets/img/blokus-duo-game-board-image.jpg
+img: assets/img/blokus-duo-game-board-image.png
 importance: 1
 category: personal
 ---

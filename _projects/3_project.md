@@ -2,7 +2,7 @@
 layout: page
 title: Budgeting App
 description: A feature-rich budgeting app with save and load functionality
-img: assets/img/budget-app-icon.jpg
+img: assets/img/budget-app-icon.png
 redirect: https://unsplash.com
 importance: 1
 category: academic
