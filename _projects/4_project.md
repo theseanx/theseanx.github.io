@@ -1,6 +1,6 @@
 ---
 layout: page
-title: InsightUBC
+title: Insight UBC
 description: UBC Course and Room aggregator project
 img: assets/img/ts-logo-512.png
 importance: 2
