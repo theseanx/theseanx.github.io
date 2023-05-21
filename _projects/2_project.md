@@ -21,6 +21,7 @@ A QR code of a vCard containing the person's contact info is automatically gener
 </div>
 
 Sample backgrounds:
+
 Cube Background:
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
