@@ -8,8 +8,8 @@ category: academic
 ---
 
 [//]: # (CITATION: cplusplus-logo.png from https://github.com/isocpp/logos)
-Developed a program that recursively splits an image (into four partitions) according to a formula that minimizes the variability in the pixels.
-The program then returns a pixelated version of the image.
+Developed a program that recursively splits an image (into four partitions) according to a formula that minimizes the variability in the pixels.  
+The program then returns a pixelated version of the image.  
 Implemented an auxiliary structure that holds the information about the variability of each pixel so that the recursive splitting algorithm runs in time proportional to the size of the image.
 
 Given an image such as:

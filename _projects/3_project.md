@@ -6,6 +6,7 @@ img: assets/img/budget-app-icon.png
 importance: 1
 category: academic
 ---
+A budget tracker app that can store both one-time and recurring (monthly) purchases. Easily add, view, and delete items through the Java Swing Graphical User Interface. You can also save your budget and edit it later by loading it from disk.
 
 [//]: # (CITATION: https://www.flaticon.com/free-icon/budget_781902)
 Main page:
