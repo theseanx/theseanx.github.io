@@ -8,6 +8,8 @@ category: personal
 ---
 
 [//]: # (CITATION: assests/img/blokus-duo-board-game-image.png was taken from https://boardgamegeek.com/image/1086904/blokus-duo)
+Blokus DUO is a 2 player variant of the full Blokus Game. Developed using Java with a full-featured Java Swing user interface. Testing was done using the JUnit testing framework.
+
 Start of game:
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
