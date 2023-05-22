@@ -3,8 +3,8 @@ layout: page
 title: Insight UBC
 description: UBC Course and Room aggregator project
 img: assets/img/ts-logo-512.png
-importance: 2
-category: academic
+importance: 4
+category: projects
 ---
 
 [//]: # (CITATION: TypeScript logo from https://www.typescriptlang.org/branding/)

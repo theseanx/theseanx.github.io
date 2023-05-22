@@ -4,7 +4,7 @@ title: Blokus DUO
 description: A fully functional Blokus DUO app created with Java
 img: assets/img/blokus-duo-game-board-image.png
 importance: 1
-category: personal
+category: projects
 ---
 
 [//]: # (CITATION: assests/img/blokus-duo-board-game-image.png was taken from https://boardgamegeek.com/image/1086904/blokus-duo)

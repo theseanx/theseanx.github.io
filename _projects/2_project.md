@@ -4,7 +4,7 @@ title: Business Card Generator
 description: An intuitive Flask front-end that allows users to easily generate business cards with stunning backgrounds
 img: assets/img/business-card-cube-background.png
 importance: 2
-category: personal
+category: projects
 ---
 A business card generator that produces formatted PDFs with the user's contact info.  
 In addition, the generator adds a QR code, which encodes a vCard, of the user's contact info. Scanning this QR code will automatically add the contact info into a person's phone.

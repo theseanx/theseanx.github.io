@@ -3,8 +3,8 @@ layout: page
 title: Budgeting App
 description: A feature-rich budgeting app with save and load functionality
 img: assets/img/budget-app-icon.png
-importance: 1
-category: academic
+importance: 3
+category: projects
 ---
 A budget tracker app that can store both one-time and recurring (monthly) purchases. Easily add, view, and delete items through the Java Swing Graphical User Interface. You can also save your budget and edit it later by loading it from disk.
 

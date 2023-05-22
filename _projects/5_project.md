@@ -3,8 +3,8 @@ layout: page
 title: Shifty Quadtree
 description: A C++ image pixelator
 img: assets/img/cplusplus-logo.png
-importance: 3
-category: academic
+importance: 5
+category: projects
 ---
 
 [//]: # (CITATION: cplusplus-logo.png from https://github.com/isocpp/logos)
