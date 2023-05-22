@@ -78,7 +78,7 @@
         - Utilized an abstract conversion function to convert human-readable units to pixels to aid in the development process
         - Developed a Flask frontend with HTTP Requests to create a user-friendly experience
         - "Technologies: Python, Segno, Reportlab, Python unittest, Flask, HTML templating, HTTP"
-    - title: InsightUBC
+    - title: Insight UBC
       year: Jan. 2023 - Apr. 2023
       description:
         - Developed an app that processes and extracts information from ZIP and HTML files
