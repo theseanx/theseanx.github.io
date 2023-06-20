@@ -27,7 +27,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Sean! A second-year computer science student and teaching assistant at UBC.
+Hi! I'm Sean! A third-year computer science student and teaching assistant at UBC.
 I've taken courses in software engineering, data structures and algorithms, as well as operating systems and I'm excited to bring my skills to the professional world.
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
